@@ -1,0 +1,175 @@
+.header{
+    background: #3b5998; 
+    width: 100%;
+    height: 85px;
+
+}
+body{
+    margin: 0;
+    font-family: Titillium Web;
+}
+.logoedit{
+    width: 50%;
+    color: #fff;
+    font-family: Titillium Web;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 48px;
+    padding-left: 200px;
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.logo{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+
+}
+.btn{
+    background-color: #3b5998;
+    color: #fff;
+}
+.login-label{
+    color: white;
+    font-size: 13px;
+    word-spacing: 1px;
+    padding-top: 2px;
+}
+.login-controls{
+    margin-left: 220px;
+}
+.forgotten{
+    color: #9cb4d8;
+    font-size: 13px;
+    word-spacing: 1px;
+}
+.btn-submit{
+background-color: #4267b2;
+border-color: rgb(0,68,120);
+color: #fff;
+margin-left: 10px;
+border-radius: 2px;
+cursor: pointer;
+border-style: solid;
+}
+.btn-submit:hover{
+background-color:  rgb(230, 230, 230);
+
+}
+.left-section{
+    width: 50%;
+    float: left;
+}
+.right-section{
+    width: 50%;
+    float: left;
+}
+.main-body{
+    padding-left: 202px;
+    padding-top: 30px;
+    background: linear-gradient(white,#d3d8e8);
+    width: 100%;
+    height: 620px;
+}
+.para{
+    font-weight: bold;;
+    font-size: 25px; 
+    color: #18326b;
+    margin-bottom: 4px;
+}
+.img{
+    width: 600px;
+    height: 210px;
+}
+.create{
+    font-size: 45px;
+    margin-top: -13px;
+    margin-bottom: -14px;
+}
+.h2{
+    margin-bottom: 16px;
+}
+.firstname{
+    height: 30px;
+    border-radius: 5px;
+    width: 218px;
+    margin-right: 9px;
+    margin-bottom: 15px;
+    border-style: solid;
+    border-color: gray;
+}
+.surname{
+    width: 184px;
+    height: 30px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: gray;
+
+}
+::placeholder{
+    font-size: 18px;
+    border-style: none;
+    
+}
+.mobile-or-email{
+    height: 30px;
+    border-radius: 5px;
+    width: 422px;
+    margin-bottom: 15px;
+    border-style: solid;
+    border-color: gray;
+}
+.password{
+    height: 30px;
+    border-radius: 5px;
+    width: 422px;
+    border-style: solid;
+    border-color: gray;
+
+}
+.birth{
+    font-size: 19px;
+    color: rgb(117, 115, 115);
+    margin-bottom: 1px;
+    border-radius: 5px;
+}
+.day{
+        margin-right: 3px;
+        padding-right: 18px;
+        height: 26px;
+        border-radius: 5px;
+}
+.month{
+    height: 26px;
+    width: 64px;
+    height: 26px;
+    border-radius: 5px;
+}
+.year{
+    height: 26px;
+    width: 64px;
+    border-radius: 5px;
+}
+.gender{
+    margin-top: 6px;
+    font-size: 19px;
+    margin-bottom: 4px;
+    color: rgb(117, 115, 115);
+}
+.gender-edit{
+    font-size: 21px;}
+    .policy{
+
+    }
+.sign-up-btn{
+    background-color: #228B22;
+    height: 60px;
+    width: 225px;
+    font-size: 24px;
+    color: white;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: darkgreen;
+}
